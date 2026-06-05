@@ -1,0 +1,5 @@
+com\paymentchain\projects\entities\Project.class
+com\paymentchain\projects\ProjectsApplication.class
+com\paymentchain\projects\controller\ProjectsRestController.class
+com\paymentchain\projects\service\ProjectService.class
+com\paymentchain\projects\repository\ProjectRepository.class

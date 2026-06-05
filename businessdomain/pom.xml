@@ -12,6 +12,7 @@
     <modules>
         <module>customer</module>
         <module>product</module>
+        <module>projects-service</module>
     </modules>
     <!--<properties>
         <spring-cloud-dependencies.version>2025.1.1</spring-cloud-dependencies.version>  
