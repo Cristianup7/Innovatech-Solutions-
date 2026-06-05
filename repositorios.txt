@@ -1,0 +1,56 @@
+REPOSITORIOS - EVALUACIÓN PARCIAL N°2 (DSY1106)
+================================================
+
+Instrucción:
+Reemplazar los placeholders por URLs reales de GitHub antes de entregar.
+
+1) Repositorio principal (monorepo / integración)
+URL: https://github.com/USUARIO/REPO-PRINCIPAL
+Descripción:
+Contiene la arquitectura completa multi-módulo con microservicios de negocio e infraestructura,
+más configuración de cobertura unificada JaCoCo y módulo report-aggregate.
+
+2) Frontend (NPM)
+URL: https://github.com/USUARIO/FRONTEND
+Descripción:
+Cliente web del sistema. Debe incluir package.json, scripts de ejecución y README de uso.
+
+3) BFF / API Gateway
+URL: https://github.com/USUARIO/APIGATEWAY-BFF
+Descripción:
+Punto de entrada del cliente. Gestiona enrutamiento, filtros y seguridad de peticiones.
+
+4) Microservicio Customer
+URL: https://github.com/USUARIO/MS-CUSTOMER
+Descripción:
+Gestión de clientes, endpoints REST, repositorio y pruebas unitarias.
+
+5) Microservicio Product
+URL: https://github.com/USUARIO/MS-PRODUCT
+Descripción:
+Gestión de productos, endpoints REST y acceso a datos.
+
+6) Microservicio Projects-Service
+URL: https://github.com/USUARIO/MS-PROJECTS-SERVICE
+Descripción:
+Gestión de proyectos y lógica de negocio relacionada.
+
+7) Infraestructura - Eureka Server
+URL: https://github.com/USUARIO/EUREKA-SERVER
+Descripción:
+Descubrimiento de servicios para comunicación dinámica entre microservicios.
+
+8) Infraestructura - Keycloak Adapter
+URL: https://github.com/USUARIO/KEYCLOAK-ADAPTER
+Descripción:
+Adaptación/autenticación/autorización con proveedor de identidad.
+
+9) Infraestructura - Spring Boot Admin
+URL: https://github.com/USUARIO/SPRING-BOOT-ADMIN
+Descripción:
+Monitoreo y observabilidad de aplicaciones Spring Boot.
+
+Notas finales:
+- Verificar que todos los repositorios sean accesibles al docente (públicos o con permisos).
+- Asegurar que las ramas principales estén actualizadas.
+- Incluir hash/commit de referencia si el docente lo solicita.
